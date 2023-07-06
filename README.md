@@ -12,8 +12,9 @@ I'm a fullstack developer and a computer science student at Andrews University. 
 - 🌎 I'm currently working on building components for Advent Share Ministries
 - 📚 Reviewing Data Structures and Algorithms and learning a bit of ML
 - 👨‍💻 Looking to contribute more on open source projects
-[comment]: 📄 Check out my resume
 - 🎉 Ingat ka!
+  
+[comment]: <📄 Check out my resume>
 <h2>🧰 Tools I use</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,py,aws,git,docker,)](https://skillicons.dev)
