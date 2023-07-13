@@ -9,9 +9,9 @@ I'm a fullstack developer and a computer science student at Andrews University. 
 
 <h2>📝 A Few Fun Facts</h2>
 
-- 🌎 I'm currently working on building components for Advent Share Ministries
+- 🌎 I'm currently working with a team at Advent Share Ministries to update their website
 - 📚 Reviewing Data Structures and Algorithms and learning a bit of ML
-- 👨‍💻 Looking to contribute more on open source projects
+- 👨‍💻 Creating new projects and looking to contribute to open source projects
 - 🎉 Ingat ka!
   
 [comment]: <📄 Check out my resume>
