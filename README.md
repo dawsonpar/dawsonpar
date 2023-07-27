@@ -17,6 +17,10 @@ I'm a software engineer and a computer science student at Andrews University. Fr
 [comment]: <📄 Check out my resume>
 <h2>🧰 Tools I use</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,py,aws,git,docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,vite,materialui,vercel)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,py)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,prisma,mysql,aws,git,github)](https://skillicons.dev)
 
 [comment]: <img src="https://github-readme-stats.vercel.app/api?username=dawsonpar&show_icons=true&count_private=true" alt="dawsonpar" />
