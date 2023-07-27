@@ -1,6 +1,6 @@
 <h2>Hi there 👋, I'm <a href="https://www.dawsonpar.com/">Dawson</a></h2> 
 
-I'm a fullstack developer and a computer science student at Andrews University. From learning new programming languages to experimenting with cutting-edge frameworks and tools, I believe in the power of continuous learning and growth.
+I'm a software engineer and a computer science student at Andrews University. From learning new programming languages to experimenting with cutting-edge frameworks and tools, I believe in the power of continuous learning and growth.
 
 💼 **Open to Work Opportunities**: I'm actively seeking new opportunities to apply my skills and contribute to meaningful projects. Feel free to reach out with any job openings or potential collaborations!
 
