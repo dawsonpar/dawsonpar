@@ -9,9 +9,9 @@ I'm a software engineer and a computer science student at Andrews University. Fr
 
 <h2>📝 A Few Fun Facts</h2>
 
-- 🌎 I'm currently working with a team at Advent Share Ministries to update their website
-- 📚 Reviewing Data Structures and Algorithms and learning a bit of ML
-- 👨‍💻 Creating new projects and looking to contribute to open source projects
+- 🌎 I'm currently working at Andrews University developing custom web applications
+- 📚 Reviewing Data Structures and Algorithms and practicing effective communication
+- 👨‍💻 Creating new projects with Flask and React
 - 🎉 Ingat ka!
   
 [comment]: <📄 Check out my resume>
