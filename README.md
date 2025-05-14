@@ -1,17 +1,15 @@
 <h2>Hi there 👋, I'm <a href="https://www.dawsonpar.com/">Dawson</a></h2> 
 
-I'm a software engineer and a computer science student at Andrews University. From learning new programming languages to experimenting with cutting-edge frameworks and tools, I believe in the power of continuous learning and growth.
-
-💼 **Open to Work Opportunities**: I'm actively seeking new opportunities to apply my skills and contribute to meaningful projects. Feel free to reach out with any job openings or potential collaborations!
+I'm a CS new grad from Andrews University and a software engineer based in NYC.
 
 <a href="https://www.linkedin.com/in/dawson-par/"><img src="https://img.shields.io/badge/-@dawson-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/dawson-par/" alt="LinkedIn Badge">
 <a href="https://www.dawsonpar.com/"><img src="https://img.shields.io/badge/-dawsonpar.com-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=nextdotjs&amp;link=https://www.dawsonpar.com/" alt="Personal Website"></a>
 
 <h2>📝 A Few Fun Facts</h2>
 
-- 🌎 I'm currently working at Andrews University developing custom web applications
-- 📚 Reviewing Data Structures and Algorithms and practicing effective communication
-- 👨‍💻 Creating new projects with Flask and React
+- 🌎 I studied abroad in Japan for a semester but I only know minimal Japanese
+- 👨‍💻 Might take a crack at a SAAS or a tracking software for volleyball
+- 📷 Looking to get my hands on a Fujifilm x100VI (at retail price💀)
 - 🎉 Ingat ka!
   
 [comment]: <📄 Check out my resume>
