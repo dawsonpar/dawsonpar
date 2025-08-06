@@ -7,9 +7,9 @@ I'm a CS new grad from Andrews University and a software engineer based in NYC.
 
 <h2>📝 A Few Fun Facts</h2>
 
-- 🌎 I studied abroad in Japan for a semester but I only know minimal Japanese
-- 👨‍💻 Might take a crack at a SAAS or a tracking software for volleyball
-- 📷 Looking to get my hands on a Fujifilm x100VI (at retail price💀)
+- 🌎 Professional volleyball open gym finder.
+- 👨‍💻 Maybe n8n will replace all of my tedious activities.
+- 📷 Looking for more opportunities to use my Fujifilm x100VI.
 - 🎉 Ingat ka!
   
 [comment]: <📄 Check out my resume>
